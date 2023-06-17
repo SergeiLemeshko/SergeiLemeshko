@@ -12,7 +12,7 @@
   :pencil2::point_down: About Me : 
       <p></p>
   <div>
-      I work as a frontend developer :computer:.
+      I work as a Frontend developer :computer:.
   </div>
       <p></p>
   :hammer_and_wrench: Languages and Tools :
